@@ -7,10 +7,10 @@
 
 ## Team & Contributions
 Developed by **Team B**, consisting of 4 engineering peers:
-*   **Christoph Simms** – Document Controller, Gantt Chart Management, Brochure Design, Testing & Verification[cite: 1].
-*   **Neev Lalith Jain** – Design Documentation, Document Formatting, Video Presentation[cite: 1].
-*   **Beninayah Anderson** – Project Enforcer, Decision Matrix Analysis, Presentation Tweak[cite: 1].
-*   **Sami Dawud** – Target/Financial Research, Idea Brainstorming, Testing & Verification[cite: 1].
+*   **Christoph Simms** – Document Controller, Gantt Chart Management, Brochure Design, Testing & Verification[cite: 1]
+*   **Neev Lalith Jain** – Design Documentation, Document Formatting, Video Presentation[cite: 1]
+*   **Beninayah Anderson** – Project Enforcer, Decision Matrix Analysis, Presentation Tweak[cite: 1]
+*   **Sami Dawud** – Target/Financial Research, Idea Brainstorming, Testing & Verification[cite: 1]
 
 ---
 
@@ -18,7 +18,7 @@ Developed by **Team B**, consisting of 4 engineering peers:
 
 ### 1. Population & Need Research
 *   **Target Demographics:** Focused on addressing acute micronutrient deficiencies (stunting, wasting, and mineral loss) in highly vulnerable, resource-limited regions[cite: 1].
-*   **Core Objective:** Bridging the gap between tracking and accessibility by providing an affordable ($<100) biometric solution localized with multilingual support[cite: 1].
+*   **Core Objective:** Bridging the gap between tracking and accessibility by providing an affordable biometric solution localized with multilingual support[cite: 1].
 
 ### 2. Structured Ideation & AI Collaboration
 *   Executed **Hybrid Brainstorming** methodologies to log independent concepts in a decentralized workspace before unifying ideas[cite: 1].
@@ -52,7 +52,7 @@ The project included mapping mathematical models to monitor cumulative electroly
 ## Repository Structure
 ```text
 ├── Documentation/
-│   ├── NutriSense_Design_Book.pdf    # Comprehensive technical engineering notebook
+│   ├── Nutrisense Design notebook.pdf # Comprehensive technical engineering notebook
 │   └── Marketing_Brochure.pdf         # Product breakdown and regional deployment flyer
 ├── System_Architecture/
 │   ├── Functional_Block_Diagram.png   # Hardware schematics and sensor inputs
